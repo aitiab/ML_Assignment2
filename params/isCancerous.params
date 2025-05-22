@@ -1,0 +1,1 @@
+"{\"reg\":0.01,\"lr\":{\"decay_rate\":0.96,\"decay_steps\":6000,\"initial_learning_rate\":0.01,\"name\":\"ExponentialDecay\",\"staircase\":false},\"momemtum\":0.9,\"mean_score\":0.6883468628,\"variance_score\":0.0000258937}"
